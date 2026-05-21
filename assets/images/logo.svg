@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80">
+<rect x="0.5" y="0.5" width="319" height="79" rx="18" fill="white" stroke="#E5E7EB"/>
+<rect x="18" y="16" width="48" height="48" rx="16" fill="#0F172A"/>
+<path d="M42 26c-6 4-10 10-10 17 0 7.5 4.7 13.8 9.5 17 4.8-3.2 9.5-9.5 9.5-17 0-7-4-13-9-17z" fill="#E8F1EA"/>
+<circle cx="42" cy="43" r="3" fill="#F3B23F"/>
+<text x="80" y="35" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" fill="#0F172A">GrainNest</text>
+<text x="80" y="56" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" fill="#64748B" letter-spacing="2">RICE PACKAGING STUDIO</text>
+</svg>
